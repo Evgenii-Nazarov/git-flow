@@ -1,4 +1,4 @@
-# Git Class 2
+# Git Class-2
 
 ## Pull
 
