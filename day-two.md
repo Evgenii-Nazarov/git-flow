@@ -2,6 +2,10 @@
 
 ## Pull
 
+`git fetch origin main` + `git merge origin/main`
+`git pull origin main`
+
+
 ## Branches
 
 `git checkout -b "branch-name"` - creates a new branch
